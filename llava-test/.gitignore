@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Training / eval outputs
+outputs/
+checkpoints/
+wandb/
+similarity_results.txt
+
+# OS
+.DS_Store
+Thumbs.db
