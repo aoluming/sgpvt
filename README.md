@@ -181,8 +181,8 @@ If you find our work useful, please cite:
 ```bibtex
 @inproceedings{sgpvt2026,
   title={SGPVT: Self-Generated Proximal Visual Tokens for Mitigating Proximal Collateral Damage in MLLM Unlearning},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of ACL 2026},
+  author={Jiaqi Li, Zhijing Zhang, Jiahui Geng, Sheng Bi, Chuanyi Zhang, Fan Liu, Guilin Qi},
+  booktitle={Proceedings of the 64rd Annual Meeting of the Association for Computational Linguistics},
   year={2026}
 }
 ```
