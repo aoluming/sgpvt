@@ -203,7 +203,7 @@ We welcome contributions! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For questions and feedback, please contact [your email here].
+For questions and feedback, please contact jqli@seu.edu.cn.
 
 ---
 
