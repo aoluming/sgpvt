@@ -1,0 +1,72 @@
+[
+    {
+        "id": "joebiden_ga_001",
+        "image": "Joe_Biden/1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you identify this character?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, the character in the image is Joe Biden."
+            }
+        ]
+    },
+    {
+        "id": "joebiden_ga_002",
+        "image": "Joe_Biden/5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWho is the main character depicted in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main character depicted in this image is Joe Biden."
+            }
+        ]
+    },
+    {
+        "id": "joebiden_ga_003",
+        "image": "Joe_Biden/2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWho is the person shown in this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "The person shown in this image is Joe Biden."
+            }
+        ]
+    },
+    {
+        "id": "joebiden_ga_004",
+        "image": "Joe_Biden/3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you name the main person depicted in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "The main person depicted in this picture is Joe Biden."
+            }
+        ]
+    },
+    {
+        "id": "joebiden_ga_005",
+        "image": "Joe_Biden/4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nCan you describe the person in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yes, the man in this image is Joe Biden."
+            }
+        ]
+    }
+]

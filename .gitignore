@@ -42,10 +42,8 @@ env/
 *.bin
 *.safetensors
 
-# Data
-data/
+# Data (keep important data files)
 datasets/
-*.json
 *.jsonl
 
 # Logs
